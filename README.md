@@ -1,7 +1,8 @@
 # glaucoma
 
-A new Flutter project.
-
+# This app detects glaucoma using deep learning.
+The application takes an x-ray of the retina of the eye.
+Determine if it is positive or negative.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
